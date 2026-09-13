@@ -1,6 +1,9 @@
 {
   "players": {
     "fa2597b1-6a8d-4104-95e2-ee0a863f47be": ["bluecitraniumpaintgun", "booster", "citraniumpaintgun", "oneshotpaintgun", "ralseipaintgun", "playtester", "supporter", "contributor", "translator", "brick", "pancakestester"],
-"bdd0d01e-911d-45a2-9487-6c36ba8a565d": ["bluecitraniumpaintgun", "booster", "citraniumpaintgun", "oneshotpaintgun", "ralseipaintgun", "playtester", "supporter", "contributor", "translator", "brick"]
+"bdd0d01e-911d-45a2-9487-6c36ba8a565d": ["bluecitraniumpaintgun", "booster", "citraniumpaintgun", "oneshotpaintgun", "ralseipaintgun", "playtester", "supporter", "contributor", "translator", "brick", "pancakestester"],
+"c783a623-0614-4557-a021-5f93bd6a1f2e": ["pancakestester"],
+"982475f7-155d-4575-bf69-76c93715f36e": ["pancakestester"],
+"eb2318eb-80af-4650-93d0-4fe9aade573d": ["pancakestester"]
   }
 }
