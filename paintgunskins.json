@@ -1,0 +1,101 @@
+{
+  "skins": [
+    {
+      "id": "citraniumpaintgun",
+      "name": "Citranium Paint gun",
+      "description": "Citranium paint gun",
+      "texture": "textures/items/paintgun/citraniumpaintgun.png",
+      "tintable": false
+    },
+    {
+      "id": "bluecitraniumpaintgun",
+      "name": "Blue citranium Paint gun",
+      "description": "Blue citranium paint gun",
+      "texture": "textures/items/paintgun/bluecitraniumpaintgun.png",
+      "tintable": false
+    },
+    {
+      "id": "oneshotpaintgun",
+      "name": "Niko gun",
+      "description": "Fish!",
+      "texture": "textures/items/paintgun/nikogun.png",
+      "tintable": false
+    },
+    {
+      "id": "ralseipaintgun",
+      "name": "Ralsei gun",
+      "description": "Kris! You're doing great!",
+      "texture": "textures/items/paintgun/ralseigun.png",
+      "tintable": false
+    },
+    {
+      "id": "playtester",
+      "name": "Playtester",
+      "description": "Obtained by helping playtest the portalmod",
+      "texture": "textures/items/paintgun/playtesterpaintgun.png",
+      "tintable": false
+    },
+    {
+      "id": "birthday",
+      "name": "Birthday",
+      "description": "Happy birthday!",
+      "texture": "textures/items/paintgun/birthdaypaintgun.png",
+      "tintable": false
+    },
+    {
+      "id": "booster",
+      "name": "Booster",
+      "description": "Obtained by boosting the Discord server for 3 months.",
+      "texture": "textures/items/paintgun/booster_paintgun.png",
+      "tintable": false,
+      "animated": true,
+      "frameCount": 18,
+      "frameTicks": 2
+    },
+    {
+      "id": "supporter",
+      "name": "Supporter",
+      "description": "Obtained by Donating to Portalmod",
+      "texture": "textures/items/paintgun/supporterpaintgun.png",
+      "tintable": false
+    },
+    {
+      "id": "contributor",
+      "name": "Contributor",
+      "description": "You are a PortalMod contributor.",
+      "texture": "textures/items/paintgun/contributorpaintgun.png",
+      "tintable": false
+    },
+    {
+      "id": "translator",
+      "name": "Translator",
+      "description": "Obtained by helping translate the portalmod,PMOD Additions",
+      "texture": "textures/items/paintgun/translator_paintgun.png",
+      "tintable": false
+    },
+    {
+      "id": "brick",
+      "name": "Brick",
+      "description": "Exclusive skin for Lemo!",
+      "texture": "textures/items/paintgun/brick_paintgun.png",
+      "tintable": false
+    },
+    {
+      "id": "pancakestester",
+      "name": "Pancake for testers",
+      "description": "Help test PortalMod Additions",
+      "texture": "textures/items/paintgun/testerpancakes.png",
+      "tintable": false
+    },
+    {
+      "id": "redacted",
+      "name": "???",
+      "description": "[REDACTED]",
+      "texture": "textures/items/paintgun/redacted_anim_paintgun.png",
+      "tintable": false,
+      "animated": true,
+      "frameCount": 12,
+      "frameTicks": 2
+    }
+  ]
+}
