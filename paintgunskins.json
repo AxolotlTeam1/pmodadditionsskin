@@ -50,7 +50,7 @@
       "tintable": false,
       "animated": true,
       "frameCount": 18,
-      "frameTicks": 2
+      "framerate": 10
     },
     {
       "id": "supporter",
@@ -94,8 +94,8 @@
       "texture": "textures/items/paintgun/redacted_anim_paintgun.png",
       "tintable": false,
       "animated": true,
-"frameCount": 12,
-"frameTicks": 4
+      "frameCount": 12,
+      "framerate": 5
     }
   ]
 }
