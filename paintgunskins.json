@@ -94,8 +94,8 @@
       "texture": "textures/items/paintgun/redacted_anim_paintgun.png",
       "tintable": false,
       "animated": true,
-      "frameCount": 12,
-      "frameTicks": 2
+"frameCount": 12,
+"frameTicks": 4
     }
   ]
 }
