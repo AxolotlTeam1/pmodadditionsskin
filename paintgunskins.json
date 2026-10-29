@@ -69,7 +69,7 @@
     {
       "id": "translator",
       "name": "Translator",
-      "description": "Obtained by helping translate the portalmod,PMOD Additions",
+      "description": "Obtained by helping translate the portalmod, PMOD Additions",
       "texture": "textures/items/paintgun/translator_paintgun.png",
       "tintable": false
     },
