@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 4,
   "base": "https://raw.githubusercontent.com/AxolotlTeam1/pmodadditionsskin/refs/heads/main/chambericon/",
   "presets": [
     {
@@ -10,7 +10,6 @@
       "columns": 1,
       "rows": 1,
       "cellWidth": 16,
-
       "cellHeight": 16,
       "iconX": 0,
       "iconY": 0,
@@ -21,6 +20,8 @@
     {
       "name": "Arrow diagonal",
       "normal": "normal/arrow2.png",
+      "rusty": "rusty/rusty_arrow2.png",
+      "vintage": "vintage/vintage_arrow2.png",
       "columns": 1,
       "rows": 1,
       "cellWidth": 16,
@@ -34,6 +35,8 @@
     {
       "name": "Objects",
       "normal": "normal/objects.png",
+      "rusty": "rusty/rusty_objects.png",
+      "vintage": "vintage/vintage_objects.png",
       "columns": 1,
       "rows": 1,
       "cellWidth": 16,
@@ -47,6 +50,8 @@
     {
       "name": "Subjects",
       "normal": "normal/subjects.png",
+      "rusty": "rusty/rusty_subjects.png",
+      "vintage": "vintage/vintage_subjects.png",
       "columns": 1,
       "rows": 1,
       "cellWidth": 16,
@@ -60,6 +65,8 @@
     {
       "name": "Balls",
       "normal": "normal/balls.png",
+      "rusty": "rusty/rusty_balls.png",
+      "vintage": "vintage/vintage_balls.png",
       "columns": 1,
       "rows": 1,
       "cellWidth": 16,
@@ -73,6 +80,53 @@
     {
       "name": "Gels",
       "normal": "normal/gels.png",
+      "rusty": "rusty/rusty_gels.png",
+      "vintage": "vintage/vintage_gels.png",
+      "columns": 1,
+      "rows": 1,
+      "cellWidth": 16,
+      "cellHeight": 16,
+      "iconX": 0,
+      "iconY": 0,
+      "pixelStep": 1,
+      "variantsX": 2,
+      "variantsY": 2
+    },
+    {
+      "name": "fadditions",
+      "normal": "normal/fadditions.png",
+      "rusty": "rusty/rusty_fadditions.png",
+      "vintage": "vintage/vintage_fadditions.png",
+      "columns": 1,
+      "rows": 1,
+      "cellWidth": 16,
+      "cellHeight": 16,
+      "iconX": 0,
+      "iconY": 0,
+      "pixelStep": 1,
+      "variantsX": 2,
+      "variantsY": 2
+    },
+    {
+      "name": "test_elements",
+      "normal": "normal/test_elements.png",
+      "rusty": "rusty/rusty_test_elements.png",
+      "vintage": "vintage/vintage_test_elements.png",
+      "columns": 1,
+      "rows": 1,
+      "cellWidth": 16,
+      "cellHeight": 16,
+      "iconX": 0,
+      "iconY": 0,
+      "pixelStep": 1,
+      "variantsX": 2,
+      "variantsY": 2
+    },
+    {
+      "name": "someone",
+      "normal": "normal/someone.png",
+      "rusty": "rusty/rusty_someone.png",
+      "vintage": "vintage/vintage_someone.png",
       "columns": 1,
       "rows": 1,
       "cellWidth": 16,
