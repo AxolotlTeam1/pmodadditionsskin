@@ -1,15 +1,15 @@
 {
-  "version": 5,
+  "version": 6,
   "base": "https://raw.githubusercontent.com/AxolotlTeam1/pmodadditionsskin/refs/heads/main/chambericon/",
   "presets": [
-    ["Arrow", "normal/arrow.png", "rusty/rusty_arrow.png", "vintage/vintage_arrow.png"],
-    ["Arrow diagonal", "normal/arrow2.png", "rusty/rusty_arrow2.png", "vintage/vintage_arrow2.png"],
-    ["Objects", "normal/objects.png", "rusty/rusty_objects.png", "vintage/vintage_objects.png"],
-    ["Subjects", "normal/subjects.png", "rusty/rusty_subjects.png", "vintage/vintage_subjects.png"],
-    ["Balls", "normal/balls.png", "rusty/rusty_balls.png", "vintage/vintage_balls.png"],
-    ["Gels", "normal/gels.png", "rusty/rusty_gels.png", "vintage/vintage_gels.png"],
-    ["fadditions", "normal/fadditions.png", "rusty/rusty_fadditions.png", "vintage/vintage_fadditions.png"],
-    ["test_elements", "normal/test_elements.png", "rusty/rusty_test_elements.png", "vintage/vintage_test_elements.png"],
-    ["someone", "normal/someone.png", "rusty/rusty_someone.png", "vintage/vintage_someone.png"]
+    ["Arrow", "normal/normal_arrow.png", "rusty/rusty_arrow.png", "vintage/vintage_arrow.png"],
+    ["Arrow diagonal", "normal/normal_arrow2.png", "rusty/rusty_arrow2.png", "vintage/vintage_arrow2.png"],
+    ["Objects", "normal/normal_objects.png", "rusty/rusty_objects.png", "vintage/vintage_objects.png"],
+    ["Subjects", "normal/normal_subjects.png", "rusty/rusty_subjects.png", "vintage/vintage_subjects.png"],
+    ["Balls", "normal/normal_balls.png", "rusty/rusty_balls.png", "vintage/vintage_balls.png"],
+    ["Gels", "normal/normal_gels.png", "rusty/rusty_gels.png", "vintage/vintage_gels.png"],
+    ["fadditions", "normal/normal_fadditions.png", "rusty/rusty_fadditions.png", "vintage/vintage_fadditions.png"],
+    ["test_elements", "normal/normal_test_element.png", "rusty/rusty_test_element.png", "vintage/vintage_test_elements.png"],
+    ["someone", "normal/normal_someone.png", "rusty/rusty_someone.png", "vintage/vintage_someone.png"]
   ]
 }
