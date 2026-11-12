@@ -1,0 +1,87 @@
+{
+  "version": 2,
+  "base": "https://raw.githubusercontent.com/AxolotlTeam1/pmodadditionsskin/refs/heads/main/chambericon/",
+  "presets": [
+    {
+      "name": "Arrow",
+      "normal": "normal/arrow.png",
+      "rusty": "rusty/rusty_arrow.png",
+      "vintage": "vintage/vintage_arrow.png",
+      "columns": 1,
+      "rows": 1,
+      "cellWidth": 16,
+
+      "cellHeight": 16,
+      "iconX": 0,
+      "iconY": 0,
+      "pixelStep": 1,
+      "variantsX": 2,
+      "variantsY": 2
+    },
+    {
+      "name": "Arrow diagonal",
+      "normal": "normal/arrow2.png",
+      "columns": 1,
+      "rows": 1,
+      "cellWidth": 16,
+      "cellHeight": 16,
+      "iconX": 0,
+      "iconY": 0,
+      "pixelStep": 1,
+      "variantsX": 2,
+      "variantsY": 2
+    },
+    {
+      "name": "Objects",
+      "normal": "normal/objects.png",
+      "columns": 1,
+      "rows": 1,
+      "cellWidth": 16,
+      "cellHeight": 16,
+      "iconX": 0,
+      "iconY": 0,
+      "pixelStep": 1,
+      "variantsX": 2,
+      "variantsY": 2
+    },
+    {
+      "name": "Subjects",
+      "normal": "normal/subjects.png",
+      "columns": 1,
+      "rows": 1,
+      "cellWidth": 16,
+      "cellHeight": 16,
+      "iconX": 0,
+      "iconY": 0,
+      "pixelStep": 1,
+      "variantsX": 2,
+      "variantsY": 2
+    },
+    {
+      "name": "Balls",
+      "normal": "normal/balls.png",
+      "columns": 1,
+      "rows": 1,
+      "cellWidth": 16,
+      "cellHeight": 16,
+      "iconX": 0,
+      "iconY": 0,
+      "pixelStep": 1,
+      "variantsX": 2,
+      "variantsY": 2
+    },
+    {
+      "name": "Gels",
+      "normal": "normal/gels.png",
+      "columns": 1,
+      "rows": 1,
+      "cellWidth": 16,
+      "cellHeight": 16,
+      "iconX": 0,
+      "iconY": 0,
+      "pixelStep": 1,
+      "variantsX": 2,
+      "variantsY": 2
+    }
+  ]
+}
