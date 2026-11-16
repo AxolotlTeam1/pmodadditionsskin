@@ -88,6 +88,13 @@
       "tintable": false
     },
     {
+      "id": "fruit",
+      "name": "Fruit",
+      "description": "Unusually delicious",
+      "texture": "textures/items/paintgun/fruit.png",
+      "tintable": false
+    },
+    {
       "id": "redacted",
       "name": "???",
       "description": "[REDACTED]",
